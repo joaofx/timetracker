@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"subdomain"
+			],
+			[
+				"send",
+				"sendToken"
+			],
+			[
+				"in",
+				"income"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/features/account_creation_feature_spec.rb",
+			"settings":
+			{
+				"buffer_size": 480,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 4312,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spec/rails_helper.rb",
+			"settings":
+			{
+				"buffer_size": 2774,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/welcome/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/accounts_controller.rb",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/accounts/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/joao.silva/Projects/timetracker/app",
+		"/C/Users/joao.silva/Projects/timetracker/app/views",
+		"/C/Users/joao.silva/Projects/timetracker/app/views/accounts",
+		"/C/Users/joao.silva/Projects/timetracker/app/views/layouts",
+		"/C/Users/joao.silva/Projects/timetracker/app/views/welcome",
+		"/C/Users/joao.silva/Projects/timetracker/spec",
+		"/C/Users/joao.silva/Projects/timetracker/spec/features"
+	],
+	"file_history":
+	[
+		"/C/Users/joao.silva/Projects/timetracker/app/views/layouts/application.html.erb",
+		"/C/Users/joao.silva/Projects/timetracker/config/environments/test.rb",
+		"/C/Users/joao.silva/Projects/timetracker/log/test.log",
+		"/C/Users/joao.silva/Projects/timetracker/timetracking.sublime-project",
+		"/C/Users/joao.silva/Projects/timetracker/app/controllers/welcome_controller.rb",
+		"/C/Users/joao.silva/Projects/timetracker/spec/rails_helper.rb",
+		"/C/Users/joao.silva/Projects/timetracker/spec/models/account_spec.rb",
+		"/C/Users/joao.silva/Projects/timetracker/spec/factories/accounts.rb",
+		"/C/Users/joao.silva/Projects/timetracker/app/models/account.rb",
+		"/C/Users/joao.silva/Projects/mongo-profiles/Gemfile",
+		"/C/Users/joao.silva/Projects/mongo-profiles/join.rb",
+		"/C/Users/joao.silva/Projects/social/node/evocalize-profile-formatter/app.js",
+		"/C/Users/joao.silva/Projects/social/node/evocalize-profile-formatter/bin/group-profiles",
+		"/C/Users/joao.silva/Projects/timetracker/db/migrate/20141111155853_create_accounts.rb",
+		"/C/Users/joao.silva/Projects/timetracker/.rspec",
+		"/C/Users/joao.silva/Projects/timetracker/Gemfile",
+		"/C/Users/joao.silva/Projects/timetracker/spec/features/account_creation_feature_spec.rb",
+		"/C/Users/joao.silva/Projects/timetracker/config/database.yml",
+		"/C/Users/joao.silva/Projects/timetracker/app/assets/javascripts/application.js",
+		"/C/Users/joao.silva/Projects/timetracker/spec/spec_helper.rb",
+		"/C/Users/joao.silva/Projects/timetracker/bin/rails",
+		"/C/Users/joao.silva/Projects/timetracker/Rakefile",
+		"/C/Users/joao.silva/Projects/timetracker/app/controllers/application_controller.rb",
+		"/C/Users/joao.silva/Projects/timetracker/config/secrets.yml",
+		"/C/Users/joao.silva/Projects/timetracker/app/helpers/application_helper.rb",
+		"/C/Users/joao.silva/Projects/timetracker/app/assets/stylesheets/application.css",
+		"/C/Users/joao.silva/Projects/timetracker/config/application.rb",
+		"/C/Users/joao.silva/Projects/timetracker/config/environments/production.rb",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/node_modules/express/lib/application.js",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/node_modules/chai/lib/chai/utils/addProperty.js",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/views/layout.html",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/routes/accounts.js",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/views/accounts/anonymous.html",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/lib/boomi.js",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/views/accounts/callback.html",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/app.js",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/package.json",
+		"/C/Users/joao.silva/Projects/joaofx.github.com/index.html",
+		"/C/Users/joao.silva/Projects/joaofx.github.com/README",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/public/javascripts/app.js",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/views/accounts/index.html",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/bower.json",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/public/stylesheets/style.less",
+		"/C/Users/joao.silva/Projects/social/node/jawboneauth/public/stylesheets/style.css",
+		"/C/Users/joao.silva/Projects/lucenepoc/Gemfile",
+		"/C/Users/joao.silva/Projects/Projects/macarraonarua/macarraonarua/src/Web/Helpers/UserSession.cs",
+		"/C/Users/joao.silva/Documents/profile.json",
+		"/C/Users/joao.silva/Projects/lucenepoc/twitter.rb",
+		"/C/Users/joao.silva/Projects/Projects/macarraonarua/macarraonarua/src/Core/Services/AutenticacaoService.cs",
+		"/C/Users/joao.silva/Projects/Projects/macarraonarua/macarraonarua/src/Web/Controllers/LoginController.cs",
+		"/C/Users/joao.silva/Projects/Projects/macarraonarua/macarraonarua/src/Web/Web.config",
+		"/C/Users/joao.silva/Projects/Projects/macarraonarua/macarraonarua/src/Web/App_Code/Link.cshtml",
+		"/C/Users/joao.silva/Projects/Projects/macarraonarua/macarraonarua/src/AppHarbor.sln",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/joao.silva/Projects/jawbonelogin/boomi.js",
+		"/C/Users/joao.silva/Projects/jawbonelogin/app.js",
+		"/C/Users/joao.silva/Projects/jawbonelogin/routes/index.js",
+		"/C/Users/joao.silva/Projects/jawbonelogin/routes/accounts.js",
+		"/C/Users/joao.silva/Projects/jawbonelogin/package.json",
+		"/C/Users/joao.silva/Projects/jawbonelogin/views/accounts/callback.html",
+		"/C/Users/joao.silva/Projects/jawbonelogin/views/layout.html",
+		"/C/Users/joao.silva/Projects/jawbonelogin/public/stylesheets/style.less",
+		"/C/Users/joao.silva/Projects/jawbonelogin/public/stylesheets/style.css",
+		"/C/Users/joao.silva/Projects/jawbonelogin/views/accounts/index.html",
+		"/C/Users/joao.silva/Projects/jawbonelogin/views/account/index.hjs",
+		"/C/Users/joao.silva/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/joao.silva/Projects/jawbonelogin/routes/users.js",
+		"/C/Users/joao.silva/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/joao.silva/Projects/jawbonelogin/views/index.hjs",
+		"/C/Users/joao.silva/Projects/hivejs/app.js",
+		"/C/Users/joao.silva/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/joao.silva/Projects/oauthd/test/providers_check.coffee",
+		"/C/Users/joao.silva/Projects/crud/config/environments/development.rb",
+		"/C/Users/joao.silva/Projects/crud/app/models/product.rb",
+		"/C/Users/joao.silva/Projects/crud/app/controllers/products_controller.rb",
+		"/C/Users/joao.silva/Projects/oauthd/config.js",
+		"/C/Projects/cashflow/Gemfile",
+		"/C/Projects/cashflow/lib/cashflow.rb",
+		"/C/Projects/cashflow/Guardfile",
+		"/C/Projects/cashflow/Rakefile",
+		"/C/Projects/sinderella/Rakefile",
+		"/C/Projects/sinderella/spec/sinderella_spec.rb",
+		"/C/Projects/cashflow/lib/payment.rb",
+		"/C/ruby-intro/cash-flow.rb",
+		"/C/Projects/sinderella/spec/spec_helper.rb",
+		"/C/Projects/sinderella/Guardfile",
+		"/C/Projects/sinderella/Gemfile",
+		"/C/ruby-intro/cash-flow-tests.rb",
+		"/C/PostgreSQL/data/postgresql.conf",
+		"/C/python-intro/cash-flow.py",
+		"/C/python-intro/check.py",
+		"/C/python-intro/func.py",
+		"/C/python-intro/hello.py",
+		"/C/Users/joao.silva/Sources/bwtest/Gemfile",
+		"/C/Users/joao.silva/Sources/bwtest/bwtest.rb",
+		"/C/Users/joao.silva/Projects/datasci/twitter.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conc",
+			"'\n",
+			"rout",
+			"route",
+			"' ",
+			"login",
+			"incomes",
+			"login",
+			"def login",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/features/account_creation_feature_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "spec/spec_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "spec/rails_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1570,
+								1570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/welcome/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/accounts_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/accounts/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "timetracking.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"route",
+				"config\\routes.rb"
+			],
+			[
+				"test",
+				"config\\environments\\test.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"rails",
+				"spec\\rails_helper.rb"
+			],
+			[
+				"spec_",
+				"spec\\spec_helper.rb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"accou",
+				"spec\\features\\account_creation_feature_spec.rb"
+			],
+			[
+				"acc",
+				"app\\models\\account.rb"
+			],
+			[
+				"rails_",
+				"spec\\rails_helper.rb"
+			],
+			[
+				"account",
+				"spec\\models\\account_spec.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"spe",
+				"spec\\spec_helper.rb"
+			],
+			[
+				"applica",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"application.js",
+				"jawboneauth\\node_modules\\express\\lib\\application.js"
+			],
+			[
+				"web.c",
+				"Web\\Web.config"
+			],
+			[
+				"loginc",
+				"Web\\Controllers\\LoginController.cs"
+			],
+			[
+				"auten",
+				"Core\\Services\\AutenticacaoService.cs"
+			],
+			[
+				"rake",
+				"sinderella\\Rakefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

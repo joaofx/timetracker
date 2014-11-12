@@ -1,14 +1,16 @@
-require 'spec_helper'
+require 'rails_helper'
+require 'capybara/rails'
 
 describe 'account creation' do
 	it 'allows user to create account' do
 		visit root_path
+
 		click_link 'Create Account'
 
-		fill_in 'Name', with: 'Joao'
-		fill_in 'Email', with: 'joaofx@gmail.com'
-		fill_in 'Password', with: '123456'
-		fill_in 'Password Confirmation', with: '123456'
+		#fill_in 'Name', with: 'Joao'
+		#fill_in 'Email', with: 'joaofx@gmail.com'
+		#fill_in 'Password', with: '123456'
+		#fill_in 'Password Confirmation', with: '123456'
 		fill_in 'Subdomain', with: 'test_subdomain'
 
 		click_button 'Create Account'
